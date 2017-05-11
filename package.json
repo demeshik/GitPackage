@@ -1,0 +1,23 @@
+{
+  "name": "@demeshik2012/gitpackage",
+  "version": "1.0.0",
+  "description": "Simple package that provide a Github API",
+  "main": "modules.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "needle": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demeshik/GitPackage.git"
+  },
+  "author": "demeshik2012",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demeshik/GitPackage/issues"
+  },
+  "homepage": "https://github.com/demeshik/GitPackage"
+}
